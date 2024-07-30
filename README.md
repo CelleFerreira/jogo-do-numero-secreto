@@ -10,3 +10,7 @@
 🔨 Funcionalidades do projeto:
 
 O jogo consiste na descoberta de um número secreto e aleatório. Com a tecnologia JavaScrip, foi possível aplicar atributos como: function, if, else, qu permitiram o andamento do jogo.
+
+📁 Acesso ao projeto:
+
+Você pode acessar os arquivos do projeto clicando aqui: <link>https://celleferreira.github.io/jogo-do-numero-secreto/</link>
